@@ -5,7 +5,7 @@ var scl = 20; //It represtents scale or one grid
 var food;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1520, 730);
   s = new Snake();
   frameRate(10);
   pickLocation();
